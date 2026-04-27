@@ -6,6 +6,7 @@ A clean, mobile-friendly web application that helps estimate how long a business
 
 https://divyasharma-21.github.io/Runway-Calculator/
 
+
 **📌 Project Overview**
 
 In early-stage startups, managing cash flow is critical.  
@@ -108,7 +109,6 @@ Instead of just displaying numbers, the app provides:
 - Clarity through layout  
 
 This helps users quickly understand their financial position without extra effort.
-
 
 **📂 Project Structure**
 
