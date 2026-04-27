@@ -1,8 +1,8 @@
-Startup Runway Calculator
+**Startup Runway Calculator**
 
 A clean, mobile-friendly web application that helps estimate how long a business can operate based on available cash and monthly expenses.
 
-📌 Project Overview
+**📌 Project Overview**
 
 In early-stage startups, managing cash flow is critical.  
 This tool provides a quick way to understand:
@@ -15,7 +15,7 @@ This tool provides a quick way to understand:
 
 The focus of this project is not just calculation, but presenting financial data in a simple and meaningful way.
 
-✨ Features
+**✨ Features**
 
 Core Functionality
 
@@ -32,7 +32,7 @@ Core Functionality
   - 🟡 Warning
   - 🔴 Danger
 
-Enhancements
+**Enhancements**
 
 - Currency formatting for better readability  
 - Option to switch between ₹, $, €  
@@ -40,7 +40,7 @@ Enhancements
 - Separate landing page and calculator page  
 - Subtle neon UI styling for better visual appeal  
 
-🎨 UI & Design
+**🎨 UI & Design**
 
 The interface is designed to be simple but expressive:
 
@@ -56,7 +56,7 @@ Color meaning:
 
 The goal is to help users understand their situation instantly without overanalyzing numbers.
 
-🧠 Technical Approach
+**💻 Technical Approach**
 
 Tech Stack
 
@@ -70,12 +70,12 @@ Why Vanilla JS?
 - Demonstrates core JavaScript skills  
 - Allows full control over UI behavior  
 
-📊 Calculation Logic
+**📊 Calculation Logic**
 
 - Runway (Months) = Cash ÷ Burn Rate  
 - Days ≈ Months × 30  
 
-📱 Responsiveness
+**📱 Responsiveness**
 
 The application is designed to work across devices:
 
@@ -84,7 +84,7 @@ The application is designed to work across devices:
 - Readable font scaling  
 - Touch-friendly inputs and buttons  
 
-🚀 Extra Effort
+**🚀 Extra Efforts**
 
 Special focus was given to small but important details:
 
@@ -94,7 +94,7 @@ Special focus was given to small but important details:
 - Status colors that reflect urgency  
 - Smooth hover and interaction feedback  
 
-💡 Design Intent
+**💡 Design Intent**
 
 The aim was to make a simple calculator feel more like a useful product.
 
@@ -106,14 +106,16 @@ Instead of just displaying numbers, the app provides:
 This helps users quickly understand their financial position without extra effort.
 
 
-📂 Project Structure
+**📂 Project Structure**
 
+```bash
 runway-calculator/
 │
-├── index.html # Landing page
-├── calculator.html # Main calculator
-├── styles.css # Styling
-├── script.js # Logic
-├── bg.jpg # Background
+├── index.html
+├── calculator.html
+├── styles.css
+├── script.js
+├── bg.jpg
 └── README.md
+```
 
